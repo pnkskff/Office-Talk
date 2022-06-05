@@ -22,7 +22,7 @@ III. OPTIMIZATION:
 
   1. Local Storage to keep a Scoreboard.
 
-IV: FURTHER INFO:
+IV. FURTHER INFO:
 
   1. Readme last updated on: JUNE 2022
 
