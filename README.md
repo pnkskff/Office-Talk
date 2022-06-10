@@ -21,6 +21,8 @@ II. NOTES:
 III. OPTIMIZATION:
 
   1. Local Storage to keep a Scoreboard.
+  
+  2. Put in a Quote API from a different Show, to act as a trick Question.
 
 IV. FURTHER INFO:
 
